@@ -1,4 +1,4 @@
-# AOJ_introduction_programming_1
+# AOJ introduction programming 1
 AOJ「Introduction To Programming I」の40問を解きます。  
 問題は[こちら](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)から閲覧できます。
 ## なぜ解くのか
