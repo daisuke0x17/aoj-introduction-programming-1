@@ -3,9 +3,6 @@
 
 '''
 
-from audioop import reverse
-
-
 input_str = input()
 
 q = int(input())
